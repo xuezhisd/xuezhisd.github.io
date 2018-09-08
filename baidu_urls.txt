@@ -5,7 +5,7 @@ http://blog.xuezhisd.top/2018/04/18/python-pip更改国内镜像.html
 http://blog.xuezhisd.top/2018/04/16/软件-Clion关联-高亮-cuda代码.html
 http://blog.xuezhisd.top/2018/04/15/运维-使用国内免费CDN加速GitHub-Pages.html
 http://blog.xuezhisd.top/2018/04/14/c-定义类型别名.html
-http://blog.xuezhisd.top/2018/04/14/c-单例模式.html
 http://blog.xuezhisd.top/2018/04/14/test.html
+http://blog.xuezhisd.top/2018/04/14/c-单例模式.html
 http://blog.xuezhisd.top/2018/04/13/c-工厂模式.html
 http://blog.xuezhisd.top/2018/04/13/使用shadowsocks访问google-scholar.html
