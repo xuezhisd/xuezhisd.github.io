@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.xuezhisd.top/"/>
-  <updated>2018-09-08T00:32:56.399Z</updated>
+  <updated>2018-09-08T00:39:51.043Z</updated>
   <id>http://blog.xuezhisd.top/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2018-9-8-testing</title>
+    <link href="http://blog.xuezhisd.top/2018/09/08/2018-9-8-testing.html"/>
+    <id>http://blog.xuezhisd.top/2018/09/08/2018-9-8-testing.html</id>
+    <published>2018-09-08T00:39:51.043Z</published>
+    <updated>2018-09-08T00:39:51.043Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>新的写博客的方法</li><li>哈哈</li></ul><p>欢迎使用 <strong>{小书匠}(xiaoshujiang)编辑器</strong>，您可以通过 <code>小书匠主按钮&gt;模板</code> 里的模板管理来改变新建文章的内容。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;新的写博客的方法&lt;/li&gt;
+&lt;li&gt;哈哈&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;欢迎使用 &lt;strong&gt;{小书匠}(xiaoshujiang)编辑器&lt;/strong&gt;，您可以通过 &lt;code&gt;小书匠主按钮&amp;gt;模板&lt;/code&gt; 里的模板管理来改变新建文章的内容。&lt;/
+      
+    
+    </summary>
+    
+    
+      <category term="新建,模板,小书匠" scheme="http://blog.xuezhisd.top/tags/%E6%96%B0%E5%BB%BA-%E6%A8%A1%E6%9D%BF-%E5%B0%8F%E4%B9%A6%E5%8C%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>python-让jupyter notebook支持python3</title>

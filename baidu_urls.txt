@@ -1,3 +1,4 @@
+http://blog.xuezhisd.top/2018/09/08/2018-9-8-testing.html
 http://blog.xuezhisd.top/2018/04/24/python-让jupyter-notebook支持python3.html
 http://blog.xuezhisd.top/2018/04/21/python-为Python添加默认模块搜索路径.html
 http://blog.xuezhisd.top/2018/04/18/python-pip更改国内镜像.html
