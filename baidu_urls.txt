@@ -1,3 +1,4 @@
+http://blog.xuezhisd.top/2018/09/03/2018-9-12-论文笔记-Semi-Supervised Deep Learning for Monocular Depth Map Prediction.html
 http://blog.xuezhisd.top/2018/09/02/2018-9-11-NYU Depth v2数据库相关信息.html
 http://blog.xuezhisd.top/2018/09/02/2018-9-11-配置小书匠的hexo blog模板.html
 http://blog.xuezhisd.top/2018/04/24/python-让jupyter-notebook支持python3.html
