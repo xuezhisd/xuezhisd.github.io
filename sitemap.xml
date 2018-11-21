@@ -23,13 +23,6 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/schedule/index.html</loc>
-    
-    <lastmod>2018-09-08T00:32:56.403Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.xuezhisd.top/tags/index.html</loc>
     
     <lastmod>2018-09-08T00:32:56.403Z</lastmod>
@@ -37,7 +30,14 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/2018/04/14/test.html</loc>
+    <loc>http://blog.xuezhisd.top/schedule/index.html</loc>
+    
+    <lastmod>2018-09-08T00:32:56.403Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.xuezhisd.top/2018/04/16/%E8%BD%AF%E4%BB%B6-Clion%E5%85%B3%E8%81%94-%E9%AB%98%E4%BA%AE-cuda%E4%BB%A3%E7%A0%81.html</loc>
     
     <lastmod>2018-09-08T00:32:56.399Z</lastmod>
     
@@ -65,14 +65,14 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/2018/04/13/%E4%BD%BF%E7%94%A8shadowsocks%E8%AE%BF%E9%97%AEgoogle-scholar.html</loc>
+    <loc>http://blog.xuezhisd.top/2018/04/14/test.html</loc>
     
     <lastmod>2018-09-08T00:32:56.399Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/2018/04/16/%E8%BD%AF%E4%BB%B6-Clion%E5%85%B3%E8%81%94-%E9%AB%98%E4%BA%AE-cuda%E4%BB%A3%E7%A0%81.html</loc>
+    <loc>http://blog.xuezhisd.top/2018/04/13/%E4%BD%BF%E7%94%A8shadowsocks%E8%AE%BF%E9%97%AEgoogle-scholar.html</loc>
     
     <lastmod>2018-09-08T00:32:56.399Z</lastmod>
     
