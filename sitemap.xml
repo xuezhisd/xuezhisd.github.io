@@ -23,14 +23,14 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/tags/index.html</loc>
+    <loc>http://blog.xuezhisd.top/schedule/index.html</loc>
     
     <lastmod>2018-09-08T00:32:56.403Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/schedule/index.html</loc>
+    <loc>http://blog.xuezhisd.top/tags/index.html</loc>
     
     <lastmod>2018-09-08T00:32:56.403Z</lastmod>
     
@@ -72,7 +72,7 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/2018/04/24/python-%E8%AE%A9jupyter-notebook%E6%94%AF%E6%8C%81python3.html</loc>
+    <loc>http://blog.xuezhisd.top/2018/04/14/test.html</loc>
     
     <lastmod>2018-09-08T00:32:56.399Z</lastmod>
     
@@ -100,13 +100,6 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/2018/04/14/c-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html</loc>
-    
-    <lastmod>2018-09-08T00:32:56.399Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://blog.xuezhisd.top/categories/index.html</loc>
     
     <lastmod>2018-09-08T00:32:56.399Z</lastmod>
@@ -114,7 +107,14 @@
   </url>
   
   <url>
-    <loc>http://blog.xuezhisd.top/2018/04/14/test.html</loc>
+    <loc>http://blog.xuezhisd.top/2018/04/14/c-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html</loc>
+    
+    <lastmod>2018-09-08T00:32:56.399Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.xuezhisd.top/2018/04/24/python-%E8%AE%A9jupyter-notebook%E6%94%AF%E6%8C%81python3.html</loc>
     
     <lastmod>2018-09-08T00:32:56.399Z</lastmod>
     
