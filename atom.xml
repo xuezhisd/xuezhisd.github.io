@@ -236,9 +236,9 @@
   </entry>
   
   <entry>
-    <title>c++-单例模式</title>
-    <link href="http://blog.xuezhisd.top/2018/04/14/c-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html"/>
-    <id>http://blog.xuezhisd.top/2018/04/14/c-单例模式.html</id>
+    <title>testing</title>
+    <link href="http://blog.xuezhisd.top/2018/04/14/test.html"/>
+    <id>http://blog.xuezhisd.top/2018/04/14/test.html</id>
     <published>2018-04-14T10:20:00.000Z</published>
     <updated>2018-09-08T00:32:56.399Z</updated>
     
@@ -261,9 +261,9 @@
   </entry>
   
   <entry>
-    <title>testing</title>
-    <link href="http://blog.xuezhisd.top/2018/04/14/test.html"/>
-    <id>http://blog.xuezhisd.top/2018/04/14/test.html</id>
+    <title>c++-单例模式</title>
+    <link href="http://blog.xuezhisd.top/2018/04/14/c-%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.html"/>
+    <id>http://blog.xuezhisd.top/2018/04/14/c-单例模式.html</id>
     <published>2018-04-14T10:20:00.000Z</published>
     <updated>2018-09-08T00:32:56.399Z</updated>
     
@@ -329,11 +329,11 @@
       <category term="运维" scheme="http://blog.xuezhisd.top/categories/%E8%BF%90%E7%BB%B4/"/>
     
     
-      <category term="运维" scheme="http://blog.xuezhisd.top/tags/%E8%BF%90%E7%BB%B4/"/>
-    
       <category term="shadowsocks" scheme="http://blog.xuezhisd.top/tags/shadowsocks/"/>
     
       <category term="翻墙" scheme="http://blog.xuezhisd.top/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="运维" scheme="http://blog.xuezhisd.top/tags/%E8%BF%90%E7%BB%B4/"/>
     
   </entry>
   
